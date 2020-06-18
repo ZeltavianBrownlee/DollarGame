@@ -1,0 +1,6 @@
+C:\Users\user\source\repos\DollarGame\DollarGame\bin\Debug\DollarGame.exe.config
+C:\Users\user\source\repos\DollarGame\DollarGame\bin\Debug\DollarGame.exe
+C:\Users\user\source\repos\DollarGame\DollarGame\bin\Debug\DollarGame.pdb
+C:\Users\user\source\repos\DollarGame\DollarGame\obj\Debug\DollarGame.csprojAssemblyReference.cache
+C:\Users\user\source\repos\DollarGame\DollarGame\obj\Debug\DollarGame.exe
+C:\Users\user\source\repos\DollarGame\DollarGame\obj\Debug\DollarGame.pdb
